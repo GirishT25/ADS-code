@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Girish Thorat and I'm a Sanjivani College of Engineering  from Kopargoan , Dist Ahmednagar</h2>
 
 ###
 
